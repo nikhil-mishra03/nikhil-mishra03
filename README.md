@@ -92,7 +92,7 @@ I build AI systems that are designed to survive the rigors of enterprise product
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhil-mishra03&show_icons=true&theme=radical" alt="Nikhil's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-mishra03&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
