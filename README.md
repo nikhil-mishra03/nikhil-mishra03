@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Nikhil Mishra 👋</h1>
-  <h3>Software Engineer @ Cisco | Agentic AI Specialist | Production-Grade Systems</h3>
+  <h3>Software Engineer @ Cisco | AI and Agents | Production-Grade Systems</h3>
 
   <p>
     <em>"I believe engineering is only as valuable as the real-world problems it solves."</em>
@@ -20,15 +20,15 @@
 
 ## 🚀 About Me
 
-I build AI systems that are designed to survive the rigors of enterprise production—not just demos. Based in **Bangalore**, I spend my days at **Cisco** in the observability space, turning "intelligence" into reliable, scalable, and secure operations.
+I build AI systems that are designed to survive the rigors of enterprise production. Based in **Bangalore**, I'm currently working at Cisco in the Observability space, and more recently, architecting AI backed applications and services. Deep-diving into MCP, RAG and Agentic systems to the point of taking them from simple POCs and demos to actual Production-Grade Systems. Desparately trying to keep up with everything happening in the AI space.
 
 ---
 
 ## 🎯 What I'm Focused On
 
-- **🤖 Agentic Orchestration**: Building parallel LLM pipelines with **LangGraph** to solve for information quality and fact-checking.
+- **🤖 AI, but in Production**: Toy projects are just 10 Claude Code prompts away, I am more interested in making AI systems more efficient and impactful in the real world.
 - **🔌 Enterprise Connectivity**: Authoring **MCP (Model Context Protocol)** servers to bridge frontier models with legacy telemetry and data sources.
-- **🛡️ Security & Multi-Tenancy**: Architecting **RAG systems** with strict **PostgreSQL RLS** and asynchronous ingestion to protect data at scale.
+- **🛡️ Reliable and Deterministic AI**: How can we make AI systems go against their very nature ? 
 
 ---
 
@@ -82,19 +82,11 @@ I build AI systems that are designed to survive the rigors of enterprise product
 
 ---
 
-## 📊 Production Stats
-
-| Metric | Value | Context |
-| :--- | :--- | :--- |
-| **Scale** | **1,000+ QPM** | Handled 200+ concurrent users for an org-wide AI Ops platform. |
-| **Efficiency** | **-75% MTTR** | Slashed Mean Time To Resolve (4h to <1h) at Cisco by eliminating manual context switching. |
-| **Reliability** | **500+ Servers** | Managed and automated infrastructure across AWS and On-prem environments. |
-
 ---
 
 ## ☕ Side Quests
 
-- 🏡 currently obsessing over **Modern Luxe** interior design for my home.
+- 🏡 Picked up Pickle ball and running recently, both are growing on me. 
 - ✨ Building a personal brand focused on **System Architecture** and **AI Safety**.
 
 ---
