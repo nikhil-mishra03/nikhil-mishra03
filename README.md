@@ -88,7 +88,7 @@ I build AI systems that are designed to survive the rigors of enterprise product
 ## ☕ Side Quests
 
 - 🏡 Picked up Pickle ball and running recently, both are growing on me. 
-- ✨ Building a personal brand focused on **System Architecture** and **AI Safety**.
+- ✨ Building a personal brand focused on **System Architecture** and **AI Systems**.
 
 ---
 
