@@ -68,6 +68,11 @@ I build AI systems that are designed to survive the rigors of enterprise product
 
 ## 🏗 Featured Projects
 
+### 🛡️ Shroud
+> *A local security proxy for AI coding tools that masks sensitive data before it leaves the machine and rehydrates it on the way back.*
+- **Tech**: Go, Local Proxying, Streaming Response Handling, WebSocket UI.
+- **Key Feature**: Added provider-aware routing for OpenAI and Anthropic traffic, with visible session logging and auditable secret masking.
+
 ### 📺 TruthTube
 > *An AI-powered analytical engine designed to filter the noise from YouTube content.*
 - **Tech**: LangGraph, Python, AI Agents.
